@@ -1,6 +1,29 @@
-I have created a random password generator web page with HTML, CSS, and JavaScript. In this app, users can create random passwords and also copy them. I have deployed this with the help of Surge which is a static web publishing tool that allows us to quickly and easily deploy static websites to the web.
+# Random-Password-Generator
 
------------------------------------
-Live Link:
-https://random_password_generator.surge.sh/
------------------------------------
+Welcome to the Random-Password-Generator! This project allows users to generate random passwords and copy them for use. Built with HTML, CSS, and JavaScript, it offers a simple yet effective solution for generating secure passwords. Deployed with Surge, it's easily accessible on the web.
+
+## Features
+
+- Generate random passwords with just a click.
+- Copy passwords to the clipboard for easy use.
+
+## Tech Stack
+
+- JavaScript
+- HTML
+- CSS
+- Visual Studio Code
+
+## Getting Started
+
+### Installation
+
+1. **Clone the project repository**:
+   ```bash
+   git clone https://github.com/khizraghaffarkk/Random-Password-Generator-Web-Page.git
+2. **Navigate to the project directory**:
+   ```bash
+   cd path/to/your/directory
+3. **Open the Terminal & Edit the Required File**
+
+**Explore it Live:** https://random_password_generator.surge.sh/
